@@ -26,14 +26,13 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Ingenious Minds Lab Solution Pvt Ltd](http://ingeniousmindslab.com/).
+- :school: I am a `Senior Web Developer` at [Ingenious Minds Lab Solution Pvt Ltd](http://ingeniousmindslab.com/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :IML: You can visit [Ingenious Minds Lab Solution PVT LTD]([http://ingeniousmindslab.com/]).
 <br>
 
 
